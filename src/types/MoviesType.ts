@@ -14,3 +14,11 @@ export type Movie = {
   vote_average: number;
   vote_count: number;
 };
+
+export type TrendingMovies = {
+  id: number;
+  count: number;
+  poster_url: string;
+  searchTerm: string;
+  title: string;
+};
