@@ -2,7 +2,7 @@
 
 A modern, responsive movie discovery application built with React, TypeScript, and Vite. Features real-time search with debouncing, trending movies tracking, and seamless integration with The Movie Database (TMDB) API and Appwrite backend services.
 
-![TMDB Movie App](./hero.png)
+![TMDB Movie App](./public/hero.png)
 
 ## ✨ Features
 
